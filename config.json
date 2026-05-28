@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyvalidate",
+        "uuid": 31099390,
+        "checksum": "5hk0je"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
